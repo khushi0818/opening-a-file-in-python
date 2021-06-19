@@ -1,0 +1,3 @@
+file = open("myfile.text"."r)
+
+print(file.read())
